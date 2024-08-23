@@ -1,4 +1,5 @@
 👋 Hi, I’m Arnold (@arnold-1324)
+
 About Me
 I’m a dedicated full-stack developer with expertise in .NET Core, MERN stack, and Java. My focus is on crafting scalable applications and delivering exceptional user experiences. I'm passionate about cutting-edge technology, including system design and financial modeling.
 
@@ -15,6 +16,7 @@ I’m open to collaborating on innovative projects, particularly those involving
 
 Reach Out
 Email: arnoldgna765@gmail.com
+
 LinkedIn: 
 
 
