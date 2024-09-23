@@ -18,5 +18,5 @@ I’m open to collaborating on innovative projects, particularly those involving
 
 ## Reach Out
 - **Email**: arnoldgna765@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio/Website**: [Link to your personal website or portfolio, if applicable]
+- **LinkedIn**:  https://www.linkedin.com/in/arnold-gnanaselvam-aa0121249
+  
