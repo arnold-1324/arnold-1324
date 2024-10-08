@@ -1,22 +1,22 @@
 # 👋 Hi, I’m Arnold (@arnold-1324)
 
 ## About Me
-I’m a dedicated full-stack developer with expertise in .NET Core, MERN stack, and Java. My focus is on crafting scalable applications and delivering exceptional user experiences. I'm passionate about cutting-edge technology, including system design and financial modeling.
+I’m a **full-stack developer** with a strong focus on **scalable applications** and delivering seamless **user experiences**. With expertise in **.NET Core, MERN stack, and Java**, I’m passionate about leveraging cutting-edge technologies like **system design** and **financial modeling** to solve complex problems.
 
-## Current Focus
-- **Building a Twitter Clone**: Developing a comprehensive Twitter clone with advanced features like authentication, post management, and chat functionalities.
-- **Social Media App Development**: Creating an Instagram-like platform with nuanced user profile management and privacy settings.
-- **Learning & Growth**: Enhancing my skills in .NET Core and Angular, while exploring finance and investment strategies and diving into Japanese language learning.
+## Current Projects
+- **🚀 Twitter Clone**: A full-featured clone with advanced features like authentication, post management, and real-time chat.
+- **📸 Instagram-like Social Media App**: Focused on user profile management, privacy settings, and intuitive UI.
+- **📈 Personal Growth**: Actively upskilling in **.NET Core, Angular**, and exploring **finance and investment strategies** alongside **Japanese language learning**.
 
-## Technical Skills
-- **Backend Technologies**: .NET Core, Java
-- **Frontend Technologies**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Angular
-- **Additional Tools**: AWS S3, System Design, Financial Modeling
+## Skills
+- **Backend**: .NET Core, Java
+- **Frontend**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Angular
+- **Tools**: AWS S3, System Design, Financial Modeling
 
-## Collaboration
-I’m open to collaborating on innovative projects, particularly those involving full-stack development, advanced system design, or financial tech solutions. If you have a project or idea that aligns with these interests, let’s connect!
+## Let’s Collaborate!
+I’m always open to collaborating on innovative projects in **full-stack development** and **advanced system design**. Let’s build something impactful together!
 
-## Reach Out
-- **Email**: arnoldgna765@gmail.com
-- **LinkedIn**:  https://www.linkedin.com/in/arnold-gnanaselvam-aa0121249
-  
+## Contact
+- **Email**: [arnoldgna765@gmail.com](mailto:arnoldgna765@gmail.com)
+- **LinkedIn**: [Arnold Gnanaselvam](https://www.linkedin.com/in/arnold-gnanaselvam-aa0121249)
+
