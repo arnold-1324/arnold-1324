@@ -11,7 +11,7 @@ I’m a **full-stack developer** with a strong focus on **scalable applications*
 ## Skills
 - **Backend**: .NET Core, Java
 - **Frontend**: MERN Stack (MongoDB, Express.js, React.js, Node.js), Angular
-- **Tools**: AWS S3, System Design, Financial Modeling
+- **Tools**: AWS , System Design, Financial Modeling
 
 ## Let’s Collaborate!
 I’m always open to collaborating on innovative projects in **full-stack development** and **advanced system design**. Let’s build something impactful together!
