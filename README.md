@@ -5,7 +5,7 @@ I’m a **full-stack developer** with a strong focus on **scalable applications*
 
 ## Current Projects
 - **🚀 Twitter Clone**: A full-featured clone with advanced features like authentication, post management, and real-time chat.
-- **📸 Instagram-like Social Media App**: Focused on user profile management, privacy settings, and intuitive UI.
+- **📸 Instagram-like Social Media App**: Focused on user profile management, and intuitive UI .
 - **📈 Personal Growth**: Actively upskilling in **.NET Core, Angular**, and exploring **finance and investment strategies** alongside **Japanese language learning**.
 
 ## Skills
